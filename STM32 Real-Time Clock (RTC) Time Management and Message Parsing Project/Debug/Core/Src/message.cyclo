@@ -1,0 +1,7 @@
+../Core/Src/message.c:24:9:hexToUint8	8
+../Core/Src/message.c:52:10:hexToUint16	8
+../Core/Src/message.c:80:10:hexToUint32	8
+../Core/Src/message.c:107:5:readCommand	1
+../Core/Src/message.c:125:5:writeCommand	7
+../Core/Src/message.c:163:11:parseMessage	10
+../Core/Src/message.c:207:6:parseData	8
